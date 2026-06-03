@@ -8,10 +8,9 @@
 
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| <img src="assets/send_light.jpg" width="250"/> | <img src="assets/send_dark.jpg" width="250"/> |
-| <img src="assets/receive_light.jpg" width="250"/> | <img src="assets/receive_dark.jpg" width="250"/> |
-| <img src="assets/status_light.jpg" width="250"/> | <img src="assets/status_dark.jpg" width="250"/> |
-
+| <img src="assets/Send%20Files%20-%20Light%20Mode.jpeg" width="250"/> | <img src="assets/Send%20Files%20-%20Dark%20Mode.jpeg" width="250"/> |
+| <img src="assets/Receive%20File%20-%20Light%20Mode.jpeg" width="250"/> | <img src="assets/Receive%20File%20-%20Dark%20Mode.jpeg" width="250"/> |
+| <img src="assets/System%20Status%20-%20Light%20Mode.jpeg" width="250"/> | <img src="assets/System%20Status%20-%20Dark%20Mode.jpeg" width="250"/> |
 ---
 
 ## 🚀 The Vision: Zero-Cloud, Zero-Trust
