@@ -1,6 +1,6 @@
 # 🌐 Clipboard Share
 
-> **Status:** Android in beta on Google Play · Windows installer available below · **Version 3.5.1**
+> **Status:** Android in beta on Google Play · Windows installer available below · **Version 3.5.2**
 
 **Clipboard Share** is a privacy-first, cross-platform productivity tool with native **Android and
 Windows** clients that speak one byte-identical wire protocol. It uses a custom peer-to-peer local
@@ -10,7 +10,7 @@ through third-party cloud servers.
 <p align="center">
   <a href="https://github.com/josephting1105123/ClipboardShare-Showcase/releases/latest/download/ClipboardShareSetup.exe"><img src="https://img.shields.io/badge/Download-Windows-2ea44f?style=for-the-badge&logo=windows" alt="Download for Windows"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.EntropicSoftwareLab.ClipboardShare"><img src="https://img.shields.io/badge/Google%20Play-Android-414141?style=for-the-badge&logo=googleplay" alt="Get it on Google Play"/></a>
-  <img src="https://img.shields.io/badge/version-3.5.1-blue?style=for-the-badge" alt="Version 3.5.1"/>
+  <img src="https://img.shields.io/badge/version-3.5.2-blue?style=for-the-badge" alt="Version 3.5.2"/>
 </p>
 
 ---
